@@ -3,8 +3,6 @@
 A modern and responsive e-commerce web application built using **React**.  
 This project includes product listing, filtering, cart management, and a checkout UI.
 
-E-Commerce Application link : http://localhost:5174/
-
 - Product details page
 - Add to cart with quantity control
 - Cart page with price calculation
